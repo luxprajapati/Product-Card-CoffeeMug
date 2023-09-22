@@ -1,1 +1,1 @@
-<h1>COFFEE Mug</h1>
+<h1 style="color🍊">COFFEE Mug</h1>
