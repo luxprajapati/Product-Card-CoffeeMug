@@ -4,4 +4,4 @@
 <br>
 <a href="www.google.com"> Link </a>
 <br>
-<img src="https://codehelp-product-card.netlify.app/images/mug.jpg" width="100px" height="auto" >
+<img src="https://codehelp-product-card.netlify.app/images/mug.jpg" width="50%" height="auto" >
